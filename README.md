@@ -62,7 +62,7 @@ Este repositório contém o escopo de desenvolvimento de uma **landing page inst
 
 - HTML semântico e organizado
 - CSS modular com uso de variáveis
-- Responsividade básica (desktop/tablet)
+- Responsividade básica (desktop)
 - Design fiel ao protótipo apresentado
 - Utilização do Font Awesome para ícones
 
