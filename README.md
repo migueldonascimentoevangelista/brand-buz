@@ -71,9 +71,7 @@ Este repositório contém o escopo de desenvolvimento de uma **landing page inst
 ## 📌 Entrega Esperada
 
 - Estrutura completa em HTML/CSS
-- Sem comentários ou instruções no código
 - Organização profissional de pastas
-- Print da página final para apresentação
 - (Opcional) Deploy via GitHub Pages
 
 ---
