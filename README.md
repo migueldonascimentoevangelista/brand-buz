@@ -74,7 +74,6 @@ Para utilizar os ícones do Font Awesome em seu projeto, adicione o seguinte có
 <!-- Font Awesome 7.1 -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.1.0/css/all.min.css">
 
-
 Você pode encontrar mais ícones e opções no site oficial do Font Awesome: Font Awesome Icons
 ---
 ## 📌 Entrega Esperada
