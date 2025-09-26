@@ -8,7 +8,7 @@ Este repositório contém o escopo de desenvolvimento de uma **landing page inst
 
 > ⚠️ Substitua a imagem abaixo por um print da landing page final.
 
-![Preview do Layout](./assets/images/preview.png)
+![Preview do Layout](./image.png)
 
 ---
 
