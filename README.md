@@ -1,7 +1,3 @@
-Claro! Aqui está o documento com as alterações solicitadas, incluindo o link para o Font Awesome 7.1, o site dos ícones e uma explicação sobre a classe `hero`:
-
----
-
 # 💼 Projeto Landing Page Institucional
 
 Este repositório contém o escopo de desenvolvimento de uma **landing page institucional**, simulando um projeto real do mercado de trabalho. O layout é focado em apresentação de serviços e captação de usuários via CTA (Call To Action).
