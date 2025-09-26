@@ -6,7 +6,7 @@ Este repositório contém o escopo de desenvolvimento de uma **landing page inst
 
 ## 🖼️ Protótipo de Referência
 
-> ⚠️ Substitua a imagem abaixo por um print da landing page final.
+> ⚠️Prototipo para clonar.
 
 ![Preview do Layout](./image.png)
 
